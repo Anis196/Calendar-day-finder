@@ -1,4 +1,4 @@
-### Calendar Day Finder
+#### Calendar Day Finder
 This Python script calculates the day of the week for a given date. By providing a date, month, and year, the script determines which day of the week the given date falls on.
 
 ### How to Use
@@ -30,10 +30,10 @@ Maps the final odd day value to the corresponding day of the week.
 
 ### How to Run
 1. Ensure you have Python installed on your system.
-2. Save the script in a file, for example, calendar_day_finder.py.
+2. Save the script in a file, for example, ``calendar_day_finder.py``.
 3. Open a terminal or command prompt.
 4. Navigate to the directory where the script is saved.
-5. Run the script using the command: python calendar_day_finder.py.
+5. Run the script using the command: ``python calendar_day_finder.py``.
 6. Enter the date, month, and year when prompted.
 
 For example:
@@ -50,4 +50,4 @@ This project is licensed under the ``MIT`` License.
 ### Contributions
 Feel free to fork this repository, make your changes, and submit a pull request. All contributions are welcome!
 
-**No library has been used for performing any of the operations, its raw logic:P I made this short program just for fun and as a way to always remember the concept and logic behind Calendar related problems.**
+**Note: No library has been used for performing any of the operations, its raw logic:P I made this short program just for fun and as a way to always remember the concept and logic behind Calendar related problems.**
