@@ -45,7 +45,7 @@ The Day on 23 July 2024 was / is Tuesday
 ```
 
 ### License
-This project is licensed under the ``MIT`` License.
+This project is licensed under the MIT ``License``.
 
 ### Contributions
 Feel free to fork this repository, make your changes, and submit a pull request. All contributions are welcome!
