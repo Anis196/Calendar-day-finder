@@ -1,4 +1,4 @@
-#### Calendar Day Finder
+## Calendar Day Finder
 This Python script calculates the day of the week for a given date. By providing a date, month, and year, the script determines which day of the week the given date falls on.
 
 ### How to Use
